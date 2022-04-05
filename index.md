@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Du wurdest eingeladen !
 
-You can use the [editor on GitHub](https://github.com/studentjk/jans25er.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Am 19. April werde ich 25 und du bist herzlichst zu meiner Party eingeladen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Datum
+Die Feierlichkeiten beginnen am 23. April gegen 19 Uhr.
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M2ZvMG5tNWwyMWNiNzQzcjZnZ2FyNGUyNzcgajExczQybDdAbQ&amp;tmsrc=j11s42l7%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
 
-### Markdown
+### Location
+Als Location habe ich meine Sommerresidenz am Westerberg in Osnabrück gewählt. Mit einem weiten Blick über die Ländereien.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2440.870240627841!2d8.008230315798585!3d52.28205767976979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b9e675366faa3f%3A0xd67ddf10fe82254a!2zSMOkbmRlbHN0cmHDn2UgMTAsIDQ5MDc2IE9zbmFicsO8Y2s!5e0!3m2!1sde!2sde!4v1649174619758!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/studentjk/jans25er.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Catering
+Sollte uns das Wetter an diesem Tag wohlgesonnen sein, wird meine Garten-Crew und etwas auf dem Grill zaubern.
+Alternativ gibt es Pizza.
