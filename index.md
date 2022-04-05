@@ -3,14 +3,14 @@
 Am 19. April vollendet der junge Herr K sein 25. Lebensjahr.
 Sein Eventmanagement-Team möchte Sie, in seinem Namen, hiermit herzlichst einladen mit ihm zu feiern.
 Die Feierlichkeiten beginnen am 23. April gegen 19 Uhr und Enden nicht vor dem Morgengrauen.
-Wir möchten Sie bitten **sich im Varaus über <a href="https://doodle.com/meeting/participate/id/1aMOO2Pd">unsere Doodle-Umfrage</a> anzumelden**.
+Wir möchten Sie bitten **sich bis zum 20. April über <a href="https://doodle.com/meeting/participate/id/1aMOO2Pd">unsere Doodle-Umfrage</a> anzumelden**.
 <a href="https://doodle.com/meeting/participate/id/1aMOO2Pd"><img border="0" src="images/Book.jpg" width="600"></a>
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M2ZvMG5tNWwyMWNiNzQzcjZnZ2FyNGUyNzcgajExczQybDdAbQ&amp;tmsrc=j11s42l7%40gmail.com"><img border="0" src="images/Date.jpg" width="600"></a>
 
 ## Location
 <img src="images/Location.jpg" width="600">
 Als Location wurde Herrn K's Sommerresidenz am Westerberg ausgewählt. Mit einem bestechenden Blick über die Ländereien der Stadt Osnabrück und einer prunkvollen Gartenanlage.
-An der Zufahrtsstraße zum Anwesen finden Sie zahlreiche Parkmöglichkeiten, falls sie mit dem Wagen anreisen. Leider ist der Parkservice momentan nicht verfügbar. Sollten Sie etwas umweltfreundlicher mit den öffentlichen Verkehrsmittlen anreisen, so dürfen Sie sich über eine exklusive Haltestelle ,direkt vor dem Anwesen, freuen.<br>
+An der Zufahrtsstraße zum Anwesen finden Sie zahlreiche Parkmöglichkeiten, falls sie mit dem Wagen anreisen. Leider ist der Parkservice momentan nicht verfügbar. Sollten Sie etwas umweltfreundlicher mit den öffentlichen Verkehrsmittlen anreisen, so dürfen Sie sich über eine exklusive Haltestelle ,direkt vor dem Anwesen, freuen. Diese ist über die Linie 10 vom Hauptbahnhof aus erreichbar<br>
 Da sich der Nordflügel mit den Gästezimmern aktuell im Umbau befindet, können den Gästen leider keine Zimmer im Haus angeboten werden.
 Sie dürfen allerdings gerne stehend oder sitzend im Atrium verweilen, bis sie Ihre Heimreise wieder selbstständig antreten können.
 Alternativ kontaktieren wir gerne für Sie ihre/n Chauffeur/in.
