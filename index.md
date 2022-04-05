@@ -3,7 +3,7 @@
 Am 19. April vollendet der junge Herr K sein 25. Lebensjahr.
 Sein Eventmanagement-Team möchte Sie, in seinem Namen, hiermit herzlichst einladen mit ihm zu feiern.
 Die Feierlichkeiten beginnen am 23. April gegen 19 Uhr und Enden nicht vor dem Morgengrauen.
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M2ZvMG5tNWwyMWNiNzQzcjZnZ2FyNGUyNzcgajExczQybDdAbQ&amp;tmsrc=j11s42l7%40gmail.com"><img border="0" src="Date.jpg" width="600"></a>
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M2ZvMG5tNWwyMWNiNzQzcjZnZ2FyNGUyNzcgajExczQybDdAbQ&amp;tmsrc=j11s42l7%40gmail.com"><img border="0" src="images/Date.jpg" width="600"></a>
 
 ## Location
 <img src="images/Location.jpg" width="600">
